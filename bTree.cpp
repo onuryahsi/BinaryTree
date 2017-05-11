@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "bTreeLib.h"
+#include "bTreeLib.hpp"
 
 int main(){
 	node* tree = NULL;
